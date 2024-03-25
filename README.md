@@ -1,2 +1,2 @@
 # ext-android-bin
-Android binaries for dependencies / libraries used by yuzu.
+Android binaries for dependencies / libraries used by uzuy.
